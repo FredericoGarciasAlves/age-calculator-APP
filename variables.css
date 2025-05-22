@@ -1,0 +1,9 @@
+:root {
+  --bg-page: #f0f0f0;
+  --bg-card: #ffffff;
+  --primary: #854dff; /* roxo */
+  --text-dark: #000000;
+  --text-light: #716f6f;
+  --hr: #dcdcdc;
+  --error: #ff5959;
+}
