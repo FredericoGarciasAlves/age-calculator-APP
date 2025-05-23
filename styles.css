@@ -60,7 +60,7 @@ body {
 /* Botão circular */
 .btn-calc {
   position: absolute;
-  top: 12.5rem;
+  top: 13.3rem;
   right: 2rem;
   background: var(--primary);
   border: none;
